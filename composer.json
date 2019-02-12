@@ -1,0 +1,26 @@
+{
+    "name": "sen/alipay",
+    "keywords": [
+        "芝麻信用",
+        "支付宝",
+        "转账"
+    ],
+    "description": "The Alipay SDK composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "senmeng",
+            "email": "626512443@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sen\\Alipay\\": "src/"
+        }
+    }
+}
