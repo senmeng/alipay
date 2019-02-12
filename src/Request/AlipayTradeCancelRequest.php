@@ -6,7 +6,7 @@
  * @since 1.0, 2017-10-19 16:09:44
  */
 
-namespace Sen\Alipay\Request;
+namespace sen\alipay\request;
 
 class AlipayTradeCancelRequest
 {

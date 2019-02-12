@@ -6,7 +6,7 @@
  * @since 1.0, 2018-06-20 17:15:31
  */
 
-namespace Sen\Alipay\Request;
+namespace sen\alipay\request;
 
 class AlipayTradeFastpayRefundQueryRequest
 {

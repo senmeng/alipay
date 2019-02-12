@@ -6,7 +6,7 @@
  * @since 1.0, 2017-04-14 11:43:02
  */
 
-namespace Sen\Alipay\Request;
+namespace sen\alipay\request;
 
 class AlipayDataBillDownloadurlGetRequest
 {

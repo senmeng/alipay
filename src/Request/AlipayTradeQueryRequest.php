@@ -6,7 +6,7 @@
  * @since 1.0, 2018-05-11 18:28:47
  */
 
-namespace Sen\Alipay\Request;
+namespace sen\alipay\request;
 
 class AlipayTradeQueryRequest
 {

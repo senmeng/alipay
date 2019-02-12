@@ -1,15 +1,15 @@
 <?php
-namespace Sen\Alipay\Request;
+namespace sen\alipay\request\zhima;
 /**
- * ALIPAY API: zhima.customer.certification.initialize request
+ * ALIPAY API: zhima.customer.certification.query request
  *
  * @author auto create
- * @since 1.0, 2018-08-29 14:41:25
+ * @since 1.0, 2018-08-29 14:41:48
  */
-class ZhimaCustomerCertificationInitializeRequest
+class ZhimaCustomerCertificationQueryRequest
 {
 	/** 
-	 * 认证初始化
+	 * 芝麻认证查询
 	 **/
 	private $bizContent;
 
@@ -36,7 +36,7 @@ class ZhimaCustomerCertificationInitializeRequest
 
 	public function getApiMethodName()
 	{
-		return "zhima.customer.certification.initialize";
+		return "zhima.customer.certification.query";
 	}
 
 	public function setNotifyUrl($notifyUrl)

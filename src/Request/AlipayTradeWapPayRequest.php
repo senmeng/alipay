@@ -6,7 +6,7 @@
  * @since 1.0, 2018-05-08 17:55:00
  */
 
-namespace Sen\Alipay\Request;
+namespace sen\alipay\request;
 
 class AlipayTradeWapPayRequest
 {

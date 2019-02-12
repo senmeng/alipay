@@ -6,7 +6,7 @@
  * Time: 下午6:21
  */
 
-namespace Sen\Alipay;
+namespace sen\alipay;
 
 class SignData
 {

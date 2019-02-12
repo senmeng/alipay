@@ -6,7 +6,7 @@
  * @since 1.0, 2018-03-02 14:37:16
  */
 
-namespace Sen\Alipay\Request;
+namespace sen\alipay\request;
 
 class AlipayTradeCustomsQueryRequest
 {

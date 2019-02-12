@@ -6,7 +6,7 @@
  * @since 1.0, 2017-12-14 16:27:58
  */
 
-namespace Sen\Alipay\Request;
+namespace sen\alipay\request;
 
 class AlipayTradeCloseRequest
 {

@@ -6,7 +6,7 @@
  * @since 1.0, 2018-07-03 21:37:30
  */
 
-namespace Sen\Alipay\Request;
+namespace sen\alipay\request;
 
 class AlipayFundTransToaccountTransferRequest
 {

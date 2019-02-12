@@ -8,7 +8,7 @@
  * Time: 下午3:25
  */
 
-namespace Sen\Alipay;
+namespace sen\alipay;
 
 class AopEncrypt
 {

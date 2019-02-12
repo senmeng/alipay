@@ -1,6 +1,6 @@
 <?php
 
-namespace Sen\Alipay;
+namespace sen\alipay;
 
 
 use \Exception;

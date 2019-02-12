@@ -7,7 +7,7 @@
  * Time: 下午8:55
  */
 
-namespace Sen\Alipay;
+namespace sen\alipay;
 
 class EncryptParseItem
 {
